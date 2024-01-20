@@ -1,0 +1,52 @@
+.hell0{
+    color: black;
+    background-color: bisque;
+    position: absolute;
+    width: 745px;
+    left: 332px;
+}
+.ct{
+    color:black;
+    background-color: rgb(131, 133, 26);;
+}
+.hell{
+    color:black;
+    background-color: rgb(131, 133, 26);;
+    width: 300px;
+    left: 20px;
+
+}
+.pp{
+    color:black;
+    background-color: rgb(131, 133, 26);;
+    width: 300px;
+    left: 50px;
+}
+.edu{
+    color:black;
+    background-color: rgb(131, 133, 26);;
+}
+.area{
+    color:black;
+    background-color:rgb(131, 133, 26);;
+    width: 300px;
+    
+}
+.pr{
+    color:black;
+    background-color:rgb(131, 133, 26);;
+    width: 300px;
+
+}
+.lead{
+    color:black;
+    background-color: rgb(131, 133, 26);;
+    width: 200px;
+}
+.padd{
+    position: absolute;
+    top: 170px;
+    left: 330px;
+    width: 745px;
+    font-family:cambria;
+}

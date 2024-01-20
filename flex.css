@@ -1,0 +1,35 @@
+body{
+    margin: 20px;
+}
+
+.contain{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    flex-direction: row;
+    flex-wrap: wrap;
+    background-color: aqua;
+
+}
+.item{
+    padding: 15px;
+    background-color: black;
+    color: azure;
+    text-align: center;
+    border: solid red;
+    padding: 10px;
+}
+.contains{
+    display:grid;
+    grid-template-columns: repeat(3,1fr);
+    gap: 20px;
+    background-color:blueviolet;
+    border: solid yellow;
+
+}
+@media(max-width:425px)
+{
+    .contains{
+        grid-template-columns: repeat(2,1fr);
+    }
+}
